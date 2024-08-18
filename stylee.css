@@ -1,0 +1,50 @@
+body {
+    background-color: white;
+}
+
+.style{
+    text-align: center;
+    font-family:'Inter', Verdana, "Segoe UI", Helvetica, Sans-Serif;
+    font-size:small;
+}
+
+table {
+    font-family:'Inter', Verdana, "Segoe UI", Helvetica, Sans-Serif;
+    border: collapse;
+    margin: auto;
+    box-shadow: 2px 1px gray;
+
+}
+td {
+    border-top: 10px;
+    padding: 12px;
+    text-align: center;
+}
+
+table, tr, td {
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+
+tr:hover{
+    background-color: yellow;
+    }
+
+tr {
+    background-color: lightblue;
+    padding: 12px;
+}
+
+th {
+    background-color: skyblue;
+}
+
+.sem-space {
+    text-align: center;
+    padding: 12px;
+}
+
+* {
+    font-size: medium;
+}
+
